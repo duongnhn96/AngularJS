@@ -1,0 +1,43 @@
+{
+  "email": [
+    {
+      "id": 1,
+      "name": "Nguyen",
+      "subject": "This is subject",
+      "messages": "duong",
+      "email": "duong"
+    },
+    {
+      "id": 2,
+      "name": "Pinô",
+      "subject": "test mail",
+      "messages": "aaaa",
+      "email": "duong@duong.com"
+    },
+    {
+      "id": 3,
+      "name": "namduong",
+      "subject": "duong",
+      "messages": "namduong",
+      "email": "namduong@gmail.co"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "Duong",
+      "password": "123456"
+      
+    },
+    {
+      "id": 2,
+      "username": "Duong",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "username": "Duong",
+      "password": "123456"
+    }
+  ]
+}
